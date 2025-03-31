@@ -51,4 +51,4 @@ Join our community of developers creating universal apps.
 
 # cars-slider
 
-[🎥 Watch the demo](./app/assets/cars-slider.gif)
+![Cars Slider](./app/assets/cars-slider.gif)
