@@ -2,6 +2,10 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+# cars-slider
+
+![Cars Slider](./app/assets/cars-slider.gif)
+
 ## Get started
 
 1. Install dependencies
@@ -48,9 +52,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-
-# cars-slider
-
-<video src="./app/assets/cars-slider.mp4" controls width="100%" autoplay muted loop>
-  Your browser does not support the video tag.
-</video>
