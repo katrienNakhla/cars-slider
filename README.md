@@ -51,4 +51,6 @@ Join our community of developers creating universal apps.
 
 # cars-slider
 
-![Cars Slider](./app/assets/cars-slider.gif)
+<video src="./app/assets/cars-slider.mp4" controls width="100%" autoplay muted loop>
+  Your browser does not support the video tag.
+</video>
